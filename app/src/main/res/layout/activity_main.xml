@@ -48,4 +48,13 @@
         android:text="Chocolate"
         tools:layout_editor_absoluteX="64dp"
         tools:layout_editor_absoluteY="213dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="167dp"
+        android:layout_height="49dp"
+        android:text="QUANTITY"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        tools:layout_editor_absoluteX="88dp"
+        tools:layout_editor_absoluteY="265dp" />
 </android.support.constraint.ConstraintLayout>
