@@ -101,4 +101,12 @@
         android:text="Order"
         tools:layout_editor_absoluteX="110dp"
         tools:layout_editor_absoluteY="531dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reset"
+        tools:layout_editor_absoluteX="21dp"
+        tools:layout_editor_absoluteY="613dp" />
 </android.support.constraint.ConstraintLayout>
